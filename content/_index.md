@@ -1,5 +1,5 @@
 ---
-title: "GameTwist Free Coins 2024 - Daily Rewards"
+title: "GameTwist Free Coins - Daily Rewards"
 date: 2024-07-13
 tags: ["GameTwist", "Free Coins", "Daily Rewards"]
 description: "Get the latest GameTwist free coins updated daily. Discover the best strategies to maximize your rewards and enjoy a variety of casino games."

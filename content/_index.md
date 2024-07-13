@@ -11,11 +11,7 @@ Welcome to the ultimate destination for GameTwist free coins! Here, you can coll
 
 ## Collect Your Daily GameTwist Free Coins
 
-- [Collect 15,000+ Free Coins for GameTwist Slots](https://www.gametwist.com)
-- [Get 20,000+ GameTwist Slots bonus](https://www.gametwist.com)
-- [Redeem Free Mega Bonus Rewards](https://www.gametwist.com)
-- [Claim Your GameTwist Free Bonus Rewards](https://www.gametwist.com)
-- [Collect Mega Jackpot Bonus up to 30,000+ Free Coins](https://www.gametwist.com)
+{{< include-md "static/rewards/gametwist.md" >}}
 
 Stay ahead in the game by taking advantage of these links and enjoy your favorite slots and casino games without spending a dime.
 

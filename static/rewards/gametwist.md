@@ -1,4 +1,8 @@
 <div class="rewards">
+  <p><a href="https://bit.ly/3Uo1INB">collect free coins 01.11.2024</a></p>
+
+  <p><a href="https://bit.ly/3NBN0yH">collect free coins 01.11.2024</a></p>
+
   <p><a href="https://bit.ly/4eNOsKD">collect free coins 31.10.2024</a></p>
 
   <p><a href="https://bit.ly/4eSAuqF">collect free coins 31.10.2024</a></p>

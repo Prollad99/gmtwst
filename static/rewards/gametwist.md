@@ -1,4 +1,8 @@
 <div class="rewards">
+  <p><a href="https://bit.ly/3VIPnEq">collect free coins 5.1.2025</a></p>
+
+  <p><a href="https://bit.ly/3OZj2Wn">collect free coins 5.1.2025</a></p>
+
   <p><a href="https://bit.ly/4fnPVqu">.collect free coins 4.1.2025</a></p>
 
   <p><a href="https://bit.ly/3ZZ1W13">collect free coins 4.1.2025</a></p>

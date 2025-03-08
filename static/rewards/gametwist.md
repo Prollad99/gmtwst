@@ -1,4 +1,44 @@
 <div class="rewards">
+  <p><a href="https://bit.ly/40ZtfHO">collect free coins 09.03.2025</a></p>
+
+  <p><a href="https://bit.ly/4i8yrjF">collect free coins 09.03.2025</a></p>
+
+  <p><a href="https://bit.ly/4gOwTtS">collect free coins 08.03.2025</a></p>
+
+  <p><a href="https://bit.ly/4gNVbUW">collect free coins 08.03.2025</a></p>
+
+  <p><a href="https://bit.ly/4i8Iq8j">collect free coins 07.03.2025</a></p>
+
+  <p><a href="https://bit.ly/3Qr1piL">collect free coins 07.03.2025</a></p>
+
+  <p><a href="https://bit.ly/415Jumz">collect free coins 07.03.2025</a></p>
+
+  <p><a href="https://bit.ly/41670A2">collect free coins 07.03.2025</a></p>
+
+  <p><a href="https://bit.ly/41mtBK0">collect free coins 06.03.2025</a></p>
+
+  <p><a href="https://bit.ly/414moNb">collect free coins 06.03.2025</a></p>
+
+  <p><a href="https://bit.ly/3DaX8wN">.collect free coins 05.03.2025</a></p>
+
+  <p><a href="https://bit.ly/4jZpPxz">.collect free coins 05.03.2025</a></p>
+
+  <p><a href="https://bit.ly/43iHqun">collect free coins 05.03.2025</a></p>
+
+  <p><a href="https://bit.ly/41Jc2nm">collect free coins 05.03.2025</a></p>
+
+  <p><a href="https://bit.ly/41o0GVQ">collect free coins 04.03.2025</a></p>
+
+  <p><a href="https://bit.ly/435DiOa">collect free coins 04.03.2025</a></p>
+
+  <p><a href="https://bit.ly/4b7osso">collect free coins 04.03.2025</a></p>
+
+  <p><a href="https://bit.ly/41atr74">collect free coins 04.03.2025</a></p>
+
+  <p><a href="https://bit.ly/3X8uT91">collect free coins 03.03.2025</a></p>
+
+  <p><a href="https://bit.ly/3XbD1p7">collect free coins 03.03.2025</a></p>
+
   <p><a href="https://bit.ly/3X8uRxV">collect free coins 02.03.2025</a></p>
 
   <p><a href="https://bit.ly/3XaSVjv">.collect free coins 02.03.2025</a></p>

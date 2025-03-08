@@ -26,12 +26,17 @@ jobs:
       - name: Install system dependencies (jq)
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Install npm dependencies
+      - name: Install npm dependencies (if package.json exists)
         run: |
-          if [ -f package-lock.json ]; then
-            npm ci
+          if [ -f package.json ]; then
+            echo "package.json found, installing dependencies..."
+            if [ -f package-lock.json ]; then
+              npm ci
+            else
+              npm install
+            fi
           else
-            npm install
+            echo "No package.json found. Skipping npm install."
           fi
 
       - name: Fetch and Update Links

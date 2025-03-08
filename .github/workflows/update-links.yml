@@ -13,20 +13,22 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Cache node modules
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: ~/.npm
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
             ${{ runner.os }}-node-
 
-      - name: Install dependencies
+      - name: Install system dependencies (jq)
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Install npm dependencies
         run: |
-          sudo apt-get update && sudo apt-get install -y jq
-          if [ -f "package-lock.json" ]; then
+          if [ -f package-lock.json ]; then
             npm ci
           else
             npm install
@@ -58,13 +60,13 @@ jobs:
           git add static/rewards/gametwist.md links-json/gametwist.json
           git commit -m "Update gametwist reward links" || true
 
-          # Pull with rebase to ensure the latest changes are included
-          git pull --rebase
+          # Pull latest changes to avoid conflicts
+          git pull --rebase || true
 
           # Push changes, retry if necessary
           for i in {1..5}; do
             git push https://x-access-token:${{ secrets.ACTIONS_DEPLOY_KEY }}@github.com/Prollad99/gmtwst.git && break
             echo "Retry $i: Push failed, retrying in 5 seconds..."
             sleep 5
-            git pull --rebase
+            git pull --rebase || true
           done
